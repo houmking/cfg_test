@@ -1,3 +1,4 @@
+%option noyywrap
 %{
     enum yytokentype{
         SENTENCE = 258,
